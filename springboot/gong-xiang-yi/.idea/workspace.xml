@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d9c73e7-ceb5-49de-acdf-2290dece28ec" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fE7KSGvD5Ec7HFdSUqpKvV7KSJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/GYX/springboot/gong-xiang-yi/src/main/java/com/example/pojo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\GYX\springboot\gong-xiang-yi\src\main\resources" />
+      <recent name="D:\Project\GYX\springboot\gong-xiang-yi\src\main\java\com\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.pojo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gong-xiang-yi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d9c73e7-ceb5-49de-acdf-2290dece28ec" name="Changes" comment="" />
+      <created>1713354320371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713354320371</updated>
+      <workItem from="1713354321590" duration="5900000" />
+      <workItem from="1713423981683" duration="11061000" />
+      <workItem from="1713514566885" duration="9849000" />
+      <workItem from="1713574767655" duration="3567000" />
+      <workItem from="1713594924967" duration="5369000" />
+      <workItem from="1713700463642" duration="6002000" />
+      <workItem from="1713744839333" duration="2137000" />
+      <workItem from="1713768230857" duration="4023000" />
+      <workItem from="1713836930453" duration="10000" />
+      <workItem from="1713872530935" duration="6330000" />
+      <workItem from="1713942837315" duration="10704000" />
+      <workItem from="1713960566844" duration="5733000" />
+      <workItem from="1714028806474" duration="8760000" />
+      <workItem from="1714092790146" duration="1903000" />
+      <workItem from="1714119963240" duration="9068000" />
+      <workItem from="1714141575382" duration="76000" />
+      <workItem from="1714141674986" duration="1510000" />
+      <workItem from="1714178782651" duration="2606000" />
+      <workItem from="1714188814251" duration="5000" />
+      <workItem from="1714201970987" duration="1494000" />
+      <workItem from="1714231304618" duration="751000" />
+      <workItem from="1714440922818" duration="37000" />
+      <workItem from="1714445325959" duration="1104000" />
+      <workItem from="1714819552923" duration="7484000" />
+      <workItem from="1714870197078" duration="1080000" />
+      <workItem from="1714892458226" duration="1992000" />
+      <workItem from="1714912800667" duration="21000" />
+      <workItem from="1714922558205" duration="6000" />
+      <workItem from="1714982294474" duration="1234000" />
+      <workItem from="1714989854387" duration="601000" />
+      <workItem from="1715063817819" duration="2428000" />
+      <workItem from="1715181972392" duration="533000" />
+      <workItem from="1715612331290" duration="1762000" />
+      <workItem from="1715652337637" duration="45000" />
+      <workItem from="1715681180485" duration="293000" />
+      <workItem from="1715754998262" duration="6099000" />
+      <workItem from="1716016337315" duration="133000" />
+      <workItem from="1716021574124" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

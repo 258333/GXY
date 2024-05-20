@@ -1,0 +1,64 @@
+# server配置
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+# 连接池配置
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/gong_xiang_yi
+    username: root
+    password: 123456
+  data:
+    redis:
+      host: localhost
+      port: 6379
+  #  # 配置邮箱服务器，账号密码等
+  #  mail:
+  #    host: smtp.qq.com
+  #    port: 465  # QQ 邮箱的 SMTP 端口号是 465
+  #    username: 3052681940@qq.com
+  #    password: pjwbsnnlgimpdebe
+  #    properties:
+  #      mail:
+  #        smtp:
+  #          starttls:
+  #            enable: true
+  #          ssl:
+  #            enable: false
+  #            require: false
+  #            trust: smtp.qq.com
+  #        #开启debug模式，这样邮件发送过程的日志会在控制台打印出来，方便排查错误
+  #        debug: true
+  mail:
+    # 邮件服务器地址
+    host: smtp.qq.com
+    # 协议 默认就是smtp
+#    protocol: smtp
+    protocol: smtps
+    # 编码格式 默认就是utf-8
+    default-encoding: utf-8
+    # 邮箱
+    username: 3052681940@qq.com
+    # 16位授权码 不是邮箱密码
+    password: jmovvtufylsadcji
+    # smtp的指定端口 使用465要将protocol改为smtps
+#    port: 587
+    port: 465
+    # 设置开启ssl
+    properties:
+      mail:
+        stmp:
+          ssl:
+            enable: false
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true #开启驼峰命名和下划线命名的自动转化
+
+
+
+
+
+
