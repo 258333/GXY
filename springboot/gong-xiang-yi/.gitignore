@@ -37,5 +37,4 @@ build/
 ### Mac OS ###
 .DS_Store
 
-springboot/gong-xiang-yi/src/main/java/com/example/utils/AliOssUtil.java
-
+/utils/AliOssUtil.java
