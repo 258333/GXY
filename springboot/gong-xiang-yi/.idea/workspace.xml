@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d9c73e7-ceb5-49de-acdf-2290dece28ec" name="Changes" comment="敏感信息" />
+    <list default="true" id="1d9c73e7-ceb5-49de-acdf-2290dece28ec" name="Changes" comment="敏感信息">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +133,7 @@
       <workItem from="1716016337315" duration="133000" />
       <workItem from="1716021574124" duration="31000" />
       <workItem from="1716209933834" duration="292000" />
-      <workItem from="1716210333739" duration="401000" />
+      <workItem from="1716210333739" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="敏感信息">
       <option name="closed" value="true" />
